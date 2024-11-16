@@ -1,0 +1,30 @@
+-->If I work for Amazon and need to store metadata for an item like a shirt, I would store the following details:
+
+1.Product ID: A unique identifier for the shirt (ex- 12345).
+2.Name: The name of the shirt (ex-Men casual shirt).
+3.Brand: The brand of the shirt (ex- nike,roadstar,puma).
+4.Category: The product category (ex-Clothing).
+5.Price: The price of the shirt (ex- Rs 500,700).
+6.Size: Available sizes (ex-S,M,L,XL).
+7.Color: Available colors (ex-Red,Green,Yellow,Blue).
+8.Material: The material used (ex- Cotton,silk,nylon).
+9.Stock Quantity: The number of shirts available in the warehouse (ex-100).
+10.Description: A detailed description of the product (ex- a comfortable,breathable shirt perfect for casual wear).
+10.Images: Links to product images (ex- URL for product photos).
+11.Ratings and Reviews: Average rating (ex- 4.5 stars from 200 reviews).
+12.Shipping Information: Shipping weight, dimensions, delivery time.
+13.Discounts/Offers: Any active offers (ex- 20% off with coupon).
+
+-->How will I use this metadata?
+
+Search Optimization: When a user searches for “casual shirts,” the system will filter and return shirts
+                     that match based on keywords like “Casual” and “Shirt” from the tags.
+Personalized Recommendations: If a customer has purchased other items in the Clothing category, 
+                            I could recommend this shirt based on their browsing or purchase history.
+Pricing and Discounts: Use the price and any discounts to apply special offers or adjust prices dynamically.
+
+Product Display: Display product details like size, color, description, and images on the product page
+                      to help customers make informed buying decisions.
+Ratings & Reviews: Analyze reviews to display product feedback and assist other customers in their purchase decisions.
+
+Shipping & Delivery: Use shipping information to calculate delivery times and shipping fees at checkout.
